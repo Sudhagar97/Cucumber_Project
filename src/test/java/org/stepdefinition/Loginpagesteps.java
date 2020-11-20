@@ -32,7 +32,7 @@ public class Loginpagesteps {
 
 	@Then("user has to navigate to homepage")
 	public void user_has_to_navigate_to_homepage() {
-		System.out.println("user as to navigate to homepage");
+		System.out.println("user as to navigate to Home");
 	}
 
 
